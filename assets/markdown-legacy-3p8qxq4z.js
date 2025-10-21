@@ -1,1 +1,0 @@
-System.register(["./index-legacy-CoOpRRMD.js"],function(e,t){"use strict";var n,r,c,u,a,i;return{setters:[e=>{n=e.dZ,r=e.D,c=e.ap,u=e.cW,a=e.a4,i=e.ao}],execute:function(){e("default",()=>{const[e]=n();return r(i,{get loading(){return e.loading},get children(){return r(c,{get children(){return e()?.content},get ext(){return u(a.obj.name)},toc:!0})}})})}}});

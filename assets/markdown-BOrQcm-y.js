@@ -1,1 +1,0 @@
-import{dZ as r,D as n,ap as a,cW as o,a4 as c,ao as s}from"./index-B0tNcUjJ.js";const u=()=>{const[e]=r();return n(s,{get loading(){return e.loading},get children(){return n(a,{get children(){var t;return(t=e())==null?void 0:t.content},get ext(){return o(c.obj.name)},toc:!0})}})};export{u as default};
