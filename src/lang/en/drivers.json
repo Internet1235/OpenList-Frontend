@@ -754,6 +754,8 @@
     "refresh_token": "Refresh token",
     "refresh_token-tips": "Refresh token for auto-login/auto-refresh",
     "root_folder_id": "Root folder id",
+    "root_path": "Root path",
+    "root_path-tips": "光鸭云盘中的完整路径",
     "send_code": "Send code",
     "send_code-tips": "Set true and save to send SMS code, it auto-resets to false after sending",
     "sort_type": "Sort type",
